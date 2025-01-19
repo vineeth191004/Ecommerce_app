@@ -49,7 +49,7 @@ A Flutter-based e-commerce app featuring user authentication (login/signup) and 
 
 1. Clone the backend repository (or navigate to the backend folder):
    ```bash
-   git clone https://github.com/your-username/ecommerce-backend.git
+   git clone https://github.com/vineeth191004/Ecommerce_app/tree/master/backend
    cd backend
    ```
 
