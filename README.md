@@ -82,3 +82,15 @@ A Flutter-based e-commerce app featuring user authentication (login/signup) and 
 - The Flutter app communicates with this backend for login/signup and product data.
 
 ---
+
+### 4. Screenshots
+
+#### Login Page
+
+![Screenshot 2024-12-07 190911](https://github.com/user-attachments/assets/fd57a55f-365b-4abc-a793-5ef8af514b82)
+
+#### Products and cart page
+
+![Screenshot 2024-12-07 190922](https://github.com/user-attachments/assets/445b6de0-6ec0-4aff-9e4e-3d10ea076e64)
+
+
