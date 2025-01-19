@@ -82,13 +82,3 @@ A Flutter-based e-commerce app featuring user authentication (login/signup) and 
 - The Flutter app communicates with this backend for login/signup and product data.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or raise an issue for any bugs or feature requests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
